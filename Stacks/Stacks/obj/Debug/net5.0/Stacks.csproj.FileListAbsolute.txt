@@ -10,3 +10,15 @@
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/ref/Stacks.dll
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.pdb
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/stacks/Stacks/Stacks/obj/Debug/net5.0/Stacks.csproj.AssemblyReference.cache
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\bin\Debug\net5.0\Stacks.deps.json
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\bin\Debug\net5.0\Stacks.dll
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\bin\Debug\net5.0\ref\Stacks.dll
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\bin\Debug\net5.0\Stacks.pdb
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\obj\Debug\net5.0\Stacks.csprojAssemblyReference.cache
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\obj\Debug\net5.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfoInputs.cache
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfo.cs
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\obj\Debug\net5.0\Stacks.csproj.CoreCompileInputs.cache
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\obj\Debug\net5.0\Stacks.dll
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\obj\Debug\net5.0\ref\Stacks.dll
+C:\source\Curso Unitest\Ejercicio 3\stactk2\stacks\Stacks\Stacks\obj\Debug\net5.0\Stacks.pdb
